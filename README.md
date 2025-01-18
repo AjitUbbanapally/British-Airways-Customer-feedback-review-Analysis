@@ -1,4 +1,4 @@
-# British-Airways-Review-Analysis
+# British-Airways-Customer-feedback-review-Analysis
 ## The travel industry has evolved over time. From conventional modes of transport , we have eventually integrated technology to make the travel seamless. Air travel has become a new normal. So, Better Customer service remains the core priority. To address these, the Project aims to provide a holistic analysis of British Airways reviews based on various parameters. The meaningful insights drawn out using the Data Visualization tools help in taking effective business decisions. 
 ## The review has been done based on several important attributes from data like  overall rating, value for money, seat comfort, cabin staff service, food beverages, ground service etc to name a few.  Similarly filtering has been done based on Continent, Traveller type (like business, family leisure, solo leisure), Seat type (business class, economy class, first class, premium economy etc), the timelines of review etc. The insights are gathered based on each of the category.
 
